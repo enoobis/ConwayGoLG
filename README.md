@@ -26,8 +26,7 @@ This will start the GUI for the Game of Life, and you can click the "Run" button
 You can customize the size of the grid and the initial state of the game by changing the values of the `GRID_SIZE` and `create_grid()` variables in the `main.py` file.
 
 ## Credits
-
-This implementation was created by [Your Name]. It's based on the [Conway's Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life) cellular automaton, which was invented by John Horton Conway in 1970.
+It's based on the [Conway's Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life) cellular automaton, which was invented by John Horton Conway in 1970.
 
 ## License
 
