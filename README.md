@@ -23,7 +23,7 @@ This will start the GUI for the Game of Life, and you can click the "Run" button
 
 ## Customization
 
-You can customize the size of the grid and the initial state of the game by changing the values of the `GRID_SIZE` and `create_grid()` variables in the `gameoflife.py` file.
+You can customize the size of the grid and the initial state of the game by changing the values of the `GRID_SIZE` and `create_grid()` variables in the `main.py` file.
 
 ## Credits
 
