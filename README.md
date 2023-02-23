@@ -2,7 +2,8 @@
 Conway's Game of Life Generator
 
 
-RUN ONLINE : (RUN)[https://replit.com/@Enoobis/ConwayGoL]
+RUN ONLINE : [RUN](https://replit.com/@Enoobis/ConwayGoL)
+
 ![image](https://user-images.githubusercontent.com/62465404/220987663-3c47b568-27a0-4ec9-803a-e295267e8e39.png)
 
 ## Installation
